@@ -1,0 +1,10 @@
+{
+  "name": "diagnostic-assistant-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "echo \"Add frontend framework (React/Vite) in frontend/src and run dev here\" && exit 0",
+    "build": "echo \"Build step\" && exit 0",
+    "test": "echo \"No tests yet\" && exit 0"
+  }
+}
